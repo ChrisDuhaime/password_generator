@@ -9,6 +9,10 @@ Week 3 Homework
 
 # function writePassword() is already declared but inside it is using generatePassword() that we have to create.  The first part of this function defines some variables and navigates through several screens to build into the chars variable that starts as an empty string.  Through the If else statements and for loop we determine weather the inputs are correct and which inputs to include in chars.  
 
-# We can use the chars and length parameters as arguments within generateRandomPassword(chars, length) to help define the random selection followed after.  
+# We can use the chars and length parameters as arguments within generateRandomPassword(chars, length) to help define the random selection followed after. 
+
+https://chrisduhaime.github.io/password_generator/
+
+
 
 
